@@ -18,10 +18,10 @@ habilidades de SOC Analyst usando Wazuh SIEM y técnicas MITRE ATT&CK.
 
 ## Estado del proyecto
 - [x] Semana 1 — Infraestructura base y Wazuh desplegado
-- [ ] Semana 2 — Agentes conectados
+- [x] Semana 2 — Agentes conectados
 - [ ] Semana 3-5 — Detecciones MITRE ATT&CK
 - [ ] Semana 6 — Documentación final
 
 ## Dashboard
-![Wazuh Dashboard_MainPage](<img width="1917" height="873" alt="Wazuh-mainpage" src="https://github.com/user-attachments/assets/dee0351d-9ca8-450b-8df8-a489753d4826" />
-)
+![Wazuh Dashboard](<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/b45d36a0-0be8-4672-a453-2f9623a19e69" />
+).
