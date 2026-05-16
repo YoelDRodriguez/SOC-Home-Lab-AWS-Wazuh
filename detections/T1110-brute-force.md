@@ -80,11 +80,11 @@ hydra -l root -P /usr/share/wordlists/rockyou.txt \
 
 
 ### Screenshots
-![Dashboard general](../Evidence/T1110/ <img width="1917" height="876" alt="Main Dashboard- linux-victim" src="https://github.com/user-attachments/assets/9c1021ec-4dca-4d2e-ad6e-001e8f314871" />
+![Dashboard general](../Evidence/T1110<img width="1917" height="876" alt="Main Dashboard- linux-victim" src="https://github.com/user-attachments/assets/9c1021ec-4dca-4d2e-ad6e-001e8f314871" />
 )
-![Detalle alerta 5720](../Evidence/T1110/ <img width="1918" height="872" alt="sshd-Multiple authentication failures_ID5720" src="https://github.com/user-attachments/assets/d3b24be6-610c-499a-8881-66f19dbdaf46" />
+![Detalle alerta 5720](../Evidence/T1110/<img width="1918" height="872" alt="sshd-Multiple authentication failures_ID5720" src="https://github.com/user-attachments/assets/d3b24be6-610c-499a-8881-66f19dbdaf46" />
 )
-![Timeline de alertas](../Evidence/T1110/ <img width="1918" height="872" alt="TimeLine_Dashboard" src="https://github.com/user-attachments/assets/23a3ff48-b4d8-4ff3-aa0f-a260126783aa" />
+![Timeline de alertas](../Evidence/T1110/<img width="1918" height="872" alt="TimeLine_Dashboard" src="https://github.com/user-attachments/assets/23a3ff48-b4d8-4ff3-aa0f-a260126783aa" />
 )
 
 ---
