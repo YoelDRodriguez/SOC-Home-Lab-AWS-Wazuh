@@ -23,8 +23,7 @@ habilidades de SOC Analyst usando Wazuh SIEM y técnicas MITRE ATT&CK.
 - [ ] Semana 6 — Documentación final
 
 ## Dashboard
-![Wazuh Dashboard](<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/b45d36a0-0be8-4672-a453-2f9623a19e69" />
-).
+![Wazuh Dashboard](evidence/main-dashboard.png).
 
 ## Tuning y Falsos Positivos
 
