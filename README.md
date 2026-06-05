@@ -43,3 +43,6 @@ habilidades de SOC Analyst usando Wazuh SIEM y técnicas MITRE ATT&CK.
   alertas de level 14
 - La ausencia de falsos positivos en el lab se debe al entorno controlado — 
   no hay usuarios reales ni software de terceros generando ruido
+  
+## Cobertura MITRE ATT&CK
+![MITRE Coverage](infrastructure/mitre-coverage.svg)
