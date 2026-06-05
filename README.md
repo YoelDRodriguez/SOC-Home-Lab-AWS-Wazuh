@@ -143,9 +143,10 @@ soc-home-lab/
 ├── T1053/
 ├── T1078/
 └── T1059/
+
 ---
 
 ## Autor
 **Yober Rodríguez Alemán** — Ingeniero en Sistemas | Costa Rica  
 Orientado a roles de SOC Analyst y Cybersecurity  
-[LinkedIn](#Yober) | [GitHub](#YoelDRodriguez)
+[LinkedIn](#www.linkedin.com/in/yober-rodriguez-aleman) | [GitHub](#https://github.com/YoelDRodriguez)
