@@ -149,4 +149,4 @@ soc-home-lab/
 ## Autor
 **Yober Rodríguez Alemán** — Ingeniero en Sistemas | Costa Rica  
 Orientado a roles de SOC Analyst y Cybersecurity  
-[LinkedIn](#www.linkedin.com/in/yober-rodriguez-aleman) | [GitHub](#https://github.com/YoelDRodriguez)
+[LinkedIn](#www.linkedin.com/in/yober-rodriguez-aleman)
