@@ -45,4 +45,4 @@ habilidades de SOC Analyst usando Wazuh SIEM y técnicas MITRE ATT&CK.
   no hay usuarios reales ni software de terceros generando ruido
   
 ## Cobertura MITRE ATT&CK
-![MITRE Coverage](infrastructure/mitre-coverage.svg)
+![MITRE Coverage](Infrastructure/mitre-coverage.svg)
