@@ -46,3 +46,6 @@ habilidades de SOC Analyst usando Wazuh SIEM y técnicas MITRE ATT&CK.
   
 ## Cobertura MITRE ATT&CK
 ![MITRE Coverage](infrastructure/mitre-coverage.svg)
+
+## Arquitectura
+![Architecture](infrastructure/architecture.png)
