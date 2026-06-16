@@ -128,6 +128,7 @@ insuficientes para generar respuesta en un SOC real:
 ---
 
 ## Estructura del repositorio
+```xml
 soc-home-lab/
 ├── README.md
 ├── infrastructure/
@@ -143,7 +144,7 @@ soc-home-lab/
 ├── T1053/
 ├── T1078/
 └── T1059/
-
+```
 ---
 
 ## Autor
